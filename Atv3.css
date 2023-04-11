@@ -1,0 +1,21 @@
+h1{
+    font-family: cursive;
+}
+body{
+    text-align: center;
+    background-image: url(granulado.png);
+    color: chocolate;
+}
+.manteiga{
+text-decoration: line-through;
+}
+.preparo{
+font-style: italic;
+}
+
+.Prior{
+    color: rgb(34, 4, 168);
+}
+.agosto{
+    color: darkgreen;
+}
